@@ -1,6 +1,5 @@
-This code generates a DJ set tracklist based on input given by the user
-Note that specific, unlikely, combinations such as "chill techno" will likely result in issues
-I recommend trying combos such as "chill house" or "bop electronic" or "rave techno"
+This code generates a DJ set tracklist based on input given by the user.
+Note that the vibe and genre combinations input must align with track options available in your csv.
 
 HOW TO USE:
 1. Create a csv file organizing your tracks with the following column headers:
